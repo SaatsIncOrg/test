@@ -1,2 +1,2 @@
 #!/bin/bash
-touch bash_script_works.txt
+touch /home/vagrant/codeily/bash_script_works.txt
