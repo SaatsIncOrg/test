@@ -1,3 +1,4 @@
 {
-  "ignore": [".git","README.md"]
+  "ignore": [".git","README.md"],
+  "script_after": ["codeily_script_after.sh"]
 }
