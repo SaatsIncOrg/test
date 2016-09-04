@@ -1,5 +1,5 @@
 {
   "ignore": [".git","README.md"],
   "script_after": ["codeily_after_script.sh"],
-  "repo_path": "/"
+  "repo_path": ""
 }
